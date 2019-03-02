@@ -1,0 +1,17 @@
+{
+    "default_data_dir": "data",
+    "default_coords_dir": "coords/kyiv",
+
+    "api_args": {
+        "user": "s3guest",
+        "password": "s3guest",
+        "api_url": "https://scihub.copernicus.eu/s3/#/home"
+    },
+
+    "query_args": {
+        "productlevel": "L2",
+        "producttype": "SL_2_LST",
+        "platformname": "Sentinel-3",
+        "instrumentshortname": "SLSTR"
+    }
+}
